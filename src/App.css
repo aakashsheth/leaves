@@ -1,0 +1,15 @@
+.App {
+}
+
+.header {
+    background: lightgray
+}
+
+.sidebar {
+    max-width: 400px;
+    background: darkgray
+}
+
+.content {
+    background: lightblue
+}
